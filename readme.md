@@ -16,7 +16,7 @@
 
 Este projeto foi desenvolvido com o intuito de exemplificar um página de login, no qual é possível logar no site, ou então se registrar no próprio ou de outras formas ([Facebook](https://pt-br.facebook.com/) / [Instagram](https://www.instagram.com/)).
 
-_**Veja o resultado [clicando aqui](https://beaasb.github.io/Formulario/)**_
+_**Veja o resultado [clicando aqui](https://beaasb.github.io/Login-Page/)**_
 
 
 ## 🚀 Tecnologias 
